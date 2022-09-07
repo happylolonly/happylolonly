@@ -15,6 +15,7 @@ I'm a web3 fullstack developer with focus on NFT
 ![profile views](https://komarev.com/ghpvc/?username=happylolonly&style=flat)
 [![GitStats](https://img.shields.io/badge/-black?label=GitStats&style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/happylolonly)
 [![Upwork](https://img.shields.io/badge/-Upwork-8a37db?style=flat-square&logo=Upwork&logoColor=white&color=green&link=https://www.upwork.com/fl/~013c3e78f26326fe80)](https://www.upwork.com/fl/~013c3e78f26326fe80)
+[![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=orange)](https://gitlab.com/HappyLoL)
 
 [![happylolonly's github stats](https://github-readme-stats.vercel.app/api?username=happylolonly&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/happylolonly)
 
@@ -26,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
