@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a web3 fullstack developer with focus on NFT
+I'm a fullstack developer with focus on crypto/web3.
 
 - 🔭 I’m enjoy working with Web3, React and Node.js
-- 🌱 I’m currently learning more and more about NFTs
-- 👯 I’m looking to collaborate on good NFT projects
+- 🌱 I’m currently learning more and more about web3
+- 👯 I’m looking to collaborate on good crypto projects
 
 <!-- Your badges -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheslav-zhuravsky/)](https://www.linkedin.com/in/cheslav-zhuravsky/)
