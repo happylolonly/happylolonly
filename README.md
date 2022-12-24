@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a fullstack developer with focus on crypto/web3.
+I'm a full-stack engineer with focus on web3/crypto 👨‍💻
 
 - 🔭 I’m enjoy working with Web3, React and Node.js
 - 🌱 I’m currently learning more and more about web3
