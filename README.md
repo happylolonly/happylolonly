@@ -3,8 +3,10 @@
 I'm a full-stack engineer with focus on web3/crypto 👨‍💻
 
 - 🔭 I’m enjoy working with Web3, React and Node.js
-- 🌱 I’m currently learning more and more about web3/Solidity
-- 👯 I’m looking to collaborate on good crypto projects
+- 🌱 I’m currently learning more and more about web3
+- 💻 I'm now working at [Cyber](https://github.com/cybercongress)
+
+<!-- - 👯 I’m looking to collaborate on good crypto projects -->
 
 <!-- Your badges -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheslav-zhuravsky/)](https://www.linkedin.com/in/cheslav-zhuravsky/)
