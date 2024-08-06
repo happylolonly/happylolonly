@@ -10,7 +10,7 @@ I'm a full-stack engineer with focus on web3/crypto 👨‍💻
 
 <!-- Your badges -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheslav-zhuravsky/)](https://www.linkedin.com/in/cheslav-zhuravsky/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/happylolonly)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/cheslav_zhur)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happylolonly@gmail.com)](mailto:happylolonly@gmail.com)
 
 <!-- Profile View Count and GitStats -->
